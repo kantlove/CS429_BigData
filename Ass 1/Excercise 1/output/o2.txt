@@ -1,0 +1,68 @@
+So come on, spin me around 
+Map size = 6
+spin : 1
+me : 1
+come : 1
+So : 1
+on, : 1
+around : 1
+
+Now I don't wanna go home 
+Map size = 6
+don't : 1
+Now : 1
+go : 1
+I : 1
+wanna : 1
+home : 1
+
+Cause when you hold me like this you know my heart skips, skips a beat 
+Map size = 14
+a : 1
+like : 1
+this : 1
+skips, : 1
+my : 1
+when : 1
+heart : 1
+hold : 1
+skips : 1
+Cause : 1
+me : 1
+beat : 1
+know : 1
+you : 2
+
+I know I should, but I can't leave it alone 
+Map size = 8
+but : 1
+alone : 1
+leave : 1
+I : 3
+know : 1
+it : 1
+can't : 1
+should, : 1
+
+And when you hold me like this that's when my heart skips, skips a beat 
+Map size = 14
+a : 1
+like : 1
+this : 1
+that's : 1
+skips, : 1
+my : 1
+when : 2
+heart : 1
+hold : 1
+skips : 1
+And : 1
+me : 1
+beat : 1
+you : 1
+
+Oh oh oh oh oh oh oh 
+Map size = 2
+Oh : 1
+oh : 6
+

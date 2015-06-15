@@ -1,0 +1,83 @@
+I can see you're not yourself 
+Map size = 6
+can : 1
+see : 1
+not : 1
+you're : 1
+I : 1
+yourself : 1
+
+Even when you're here with me 
+Map size = 6
+here : 1
+with : 1
+you're : 1
+me : 1
+Even : 1
+when : 1
+
+I know that you're somewhere else 
+Map size = 6
+that : 1
+else : 1
+you're : 1
+I : 1
+know : 1
+somewhere : 1
+
+
+Map size = 0
+
+So put another record on 
+Map size = 5
+another : 1
+record : 1
+So : 1
+put : 1
+on : 1
+
+Kiss and leave me on 
+Map size = 5
+and : 1
+leave : 1
+me : 1
+Kiss : 1
+on : 1
+
+Nothing really matters when we're dancing 
+Map size = 6
+dancing : 1
+matters : 1
+we're : 1
+when : 1
+Nothing : 1
+really : 1
+
+Listen to the same sad song playing on repeat 
+Map size = 9
+the : 1
+song : 1
+same : 1
+sad : 1
+repeat : 1
+Listen : 1
+playing : 1
+to : 1
+on : 1
+
+'Cause every time we come this close, my heart skips, skips a beat 
+Map size = 13
+close, : 1
+a : 1
+this : 1
+'Cause : 1
+come : 1
+skips, : 1
+my : 1
+we : 1
+heart : 1
+skips : 1
+beat : 1
+time : 1
+every : 1
+

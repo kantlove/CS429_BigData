@@ -1,0 +1,87 @@
+So hung up 
+Map size = 3
+hung : 1
+up : 1
+So : 1
+
+We can't let go 
+Map size = 4
+go : 1
+let : 1
+can't : 1
+We : 1
+
+If you really have to leave 
+Map size = 6
+leave : 1
+have : 1
+to : 1
+If : 1
+you : 1
+really : 1
+
+One more time just move me slow 
+Map size = 7
+move : 1
+slow : 1
+more : 1
+One : 1
+me : 1
+time : 1
+just : 1
+
+So put another record on 
+Map size = 5
+another : 1
+record : 1
+So : 1
+put : 1
+on : 1
+
+Play it on repeat, 
+Map size = 4
+Play : 1
+repeat, : 1
+it : 1
+on : 1
+
+Nothing really matters when we're dancing 
+Map size = 6
+dancing : 1
+matters : 1
+we're : 1
+when : 1
+Nothing : 1
+really : 1
+
+Cause all you ever need to know, is what you do to me, 
+Map size = 11
+all : 1
+ever : 1
+what : 1
+need : 1
+me, : 1
+know, : 1
+Cause : 1
+is : 1
+to : 2
+do : 1
+you : 2
+
+And every time you hold me close, my heart skips, skips a beat 
+Map size = 13
+close, : 1
+a : 1
+skips, : 1
+my : 1
+heart : 1
+hold : 1
+skips : 1
+And : 1
+me : 1
+beat : 1
+time : 1
+every : 1
+you : 1
+
+
